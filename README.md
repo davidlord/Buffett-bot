@@ -1,2 +1,5 @@
 # Buffett-bot
-Avanza daytrading bot, mainly for educational purposes. 
+
+Creating a daytrading bot, mainly for educational purposes. 
+
+
