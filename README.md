@@ -9,7 +9,11 @@ We will be focusing on either stocks (more specifically large-cap stocks) or cry
 
 * Make use of indicators but try to keep it simple, do not want to integrate too many indicators in the decision process. 
 
+* Try different parameters for entry-points and exit-points respectively. 
+
 * **Note**: Avoid futures and funds. Futures due to the high risk and funds since the waiting time for orders is too long. 
+
+
 
 
 
