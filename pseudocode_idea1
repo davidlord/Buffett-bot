@@ -1,0 +1,36 @@
+# Pseudocode for bot idea 1: Multiple-large-cap-probability-Buffett. 
+# Rather than focusing on one stock, this bot will focus on a set of hand-picked large-cap stocks with relatively low individual stock prices. 
+# INPUT: List of stock names/symbols. 
+# Build separate scripts for each module in script. 
+
+# Check time, if active hour activate, else sleep. 
+
+
+
+
+# Every 1-5 minutes do: For each stock in list do: 
+  
+  # Get stock price history of stock (decide on time frame). If not accessible, skip. 
+    
+    # Get various technical analyses parameters. If not accessible, skip. 
+    
+      # Call script determining whether to buy or sell, inputing stock name. 
+      
+ 
+ # Entry- / Exit point: 
+      
+      
+    
+      # Based on recent price history & technical, calculate likelihood of up-trend, down-trend, 
+      
+        # If likelihood of up-trend significantly greater than down-trend
+
+
+# Build module: Calculates likelihood of 
+
+
+
+
+
+
+
